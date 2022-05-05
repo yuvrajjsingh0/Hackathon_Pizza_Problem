@@ -3,6 +3,8 @@
 ##
 ## **One Pizza**
 
+[![Youtube](https://img.youtube.com/vi/WbjFEqRWBoY/0.jpg)](https://www.youtube.com/watch?v=WbjFEqRWBoY)
+
 ##
 # Problem
 
